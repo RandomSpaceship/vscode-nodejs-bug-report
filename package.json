@@ -1,0 +1,8 @@
+{
+    "name": "nodejs-attach",
+    "description": "Heroku remote debugging failure",
+    "scripts": {
+        "start": "node --inspect main.js"
+    },
+    "type": "module"
+}
