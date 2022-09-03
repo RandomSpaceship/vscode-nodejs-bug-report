@@ -7,6 +7,7 @@ Heroku setup:
 1. I'm assuming you've got `git` and the [heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true#set-up) installed.
 2. Create a Heroku account.
 3. Open a terminal window and run `heroku login`.
+4. Follow the steps.
 
 Project init:
 1. Open a terminal window.
